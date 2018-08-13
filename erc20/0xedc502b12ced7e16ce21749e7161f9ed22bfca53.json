@@ -1,0 +1,13 @@
+{
+  "symbol": "ICC",
+  "address": "0xedc502b12ced7e16ce21749e7161f9ed22bfca53",
+  "overview":{
+        "en": "ICC token is designed to reward users and service providers who provide value in the ICC business network. ICC tokens can be converted into merchant goods.",
+        "zh": "ICC代币旨在奖励在ICC商业网络中提供价值的用户及服务商，ICC代币可以兑换相应的商家实物。"
+  },
+  "state": "NORMAL",
+  "email": "251688781@qq.com",
+  "website": "http://icchain.io/",
+  "whitepaper": "http://icchain.io/wp-content/uploads/2018/02/ICC-Whitepaper-v1.0.2.pdf"
+ 
+}
